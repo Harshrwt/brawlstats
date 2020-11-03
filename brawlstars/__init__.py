@@ -1,4 +1,4 @@
-from .brawlstars import brawlstars
+from .brawlstats import brawlstars
 
 
 def setup(bot):
